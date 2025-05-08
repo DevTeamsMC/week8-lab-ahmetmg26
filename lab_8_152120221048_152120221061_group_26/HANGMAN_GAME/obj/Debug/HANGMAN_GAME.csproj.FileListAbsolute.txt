@@ -1,0 +1,35 @@
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.exe.config
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.exe
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.pdb
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.AssemblyReference.cache
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.StartForm.resources
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.Properties.Resources.resources
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.exe
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.pdb
+C:\Users\tr\Desktop\C# OOP\C#_LAB\oop_lab6\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.GameForm.resources
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.exe.config
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.exe
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.pdb
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.AssemblyReference.cache
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.GameForm.resources
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.StartForm.resources
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.Properties.Resources.resources
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.GenerateResource.cache
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.CoreCompileInputs.cache
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.exe
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.pdb
+C:\Users\Ali İhsan Sancar\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.optionsForm.resources
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.exe.config
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.exe
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\bin\Debug\HANGMAN_GAME.pdb
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.AssemblyReference.cache
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.GameForm.resources
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.optionsForm.resources
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.StartForm.resources
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.Properties.Resources.resources
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.exe
+C:\Users\tr\Desktop\HANGMAN_GAME\HANGMAN_GAME\obj\Debug\HANGMAN_GAME.pdb
